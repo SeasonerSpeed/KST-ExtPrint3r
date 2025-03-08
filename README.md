@@ -19,8 +19,8 @@ By using this software, you acknowledge and agree to these terms.
 - Securly Extension installed  
 
 ## 📖 Installation & Usage  
-1. Go to the [official repository](https://github.com/SeasonerSpeed/KST-ExtPrint3r).  
-2. Follow the on-screen instructions carefully.  
+1. Go to the [official doc](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.0#heading=h.5pzggul5btg7). Keep in mind you can only access this with permission.
+2. Follow the instructions carefully.  
 3. Use with caution to avoid system crashes.  
 
 ## 🛠 Troubleshooting  
