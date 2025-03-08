@@ -3,7 +3,9 @@
 **KST-ExtPrint3r** is a web-based tool designed to overload the **Securly** extension by generating thousands of iFrames. It is the successor to the **ONC hack** and **ExtHang3r**, offering improved functionality and security. However, it is still in development and may cause system instability.  
 
 ## 📋 Quick Start
-Copy the following and paste it into your browser: (if you are new here I very much reccomend you to go to the [doc](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.0#heading=h.5pzggul5btg7))
+**Copy the following code and paste it into your browser:**
+
+If you’re new to KST-ExtPrint3r, we highly recommend reviewing the [official documentation](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.0#heading=h.5pzggul5btg7) before proceeding.
 
 ```bash
 git clone https://github.com/SeasonerSpeed/index.html
