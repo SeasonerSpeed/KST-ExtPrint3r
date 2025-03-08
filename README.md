@@ -7,7 +7,7 @@ Copy the following and paste it into your browser: (if you are new here I very m
 
 ```bash
 git clone https://github.com/SeasonerSpeed/index.html
-
+```
 ## ⚠️ Disclaimer  
 This software is provided **"as is"** without any warranties or guarantees. The developers are **not responsible** for any damage, data loss, or legal consequences resulting from its use. **Use this tool at your own risk** and ensure compliance with all applicable laws, regulations, and institutional policies.  
 
