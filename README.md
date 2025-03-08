@@ -12,6 +12,8 @@ git clone https://github.com/SeasonerSpeed/KST-ExtPrint3r/blob/main/index.html
 ```
 > [!TIP]
 > If the tab immediately closes after opening, try changing the beginning of the URL from `data:` to `data://`.
+
+>[!TIP 2]
 > It is heavily recommended that you disable the V8 optimizer (chrome://settings/content/v8) prior to using this exploit!
 
 ## ⚠️ Disclaimer  
