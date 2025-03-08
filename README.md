@@ -7,13 +7,12 @@
 
 If you’re new to KST-ExtPrint3r, we highly recommend reviewing the [official documentation](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.0#heading=h.5pzggul5btg7) before proceeding.
 
-> It is heavily recommended that you disable the V8 optimizer (chrome://settings/content/v8) prior to using this exploit! This was found by [ts353](https://github.com/ts353).
-
 ```bash
 git clone https://github.com/SeasonerSpeed/KST-ExtPrint3r/blob/main/index.html
 ```
 > [!TIP]
 > If the tab immediately closes after opening, try changing the beginning of the URL from `data:` to `data://`.
+> It is heavily recommended that you disable the V8 optimizer (chrome://settings/content/v8) prior to using this exploit!
 
 ## ⚠️ Disclaimer  
 This software is provided **"as is"** without any warranties or guarantees. The developers are **not responsible** for any damage, data loss, or legal consequences resulting from its use. **Use this tool at your own risk** and ensure compliance with all applicable laws, regulations, and institutional policies.  
