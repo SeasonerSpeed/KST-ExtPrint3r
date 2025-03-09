@@ -8,7 +8,7 @@
 If you’re new to KST-ExtPrint3r, we highly recommend reviewing the [official documentation](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.0#heading=h.5pzggul5btg7) before proceeding.
 
 ```bash
-git clone https://github.com/SeasonerSpeed/KST-ExtPrint3r/blob/main/index.html
+i put later
 ```
 
 >[!TIP]
